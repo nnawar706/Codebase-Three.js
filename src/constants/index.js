@@ -117,8 +117,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Junior Software Engineer (Backend)",
+    company_name: "Selopia",
     icon: selopia,
     iconBg: "#383E56",
     date: "Dec 2022 - Present",
