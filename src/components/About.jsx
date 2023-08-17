@@ -31,7 +31,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn('', '', 0.1, 1)}
-      className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+      className="mt-4 text-secondary text-[17px] leading-[30px]">
         I am a dedicated and enthusiastic Junior Software Engineer with a strong foundation in frameworks like Laravel, 
         React, Three.js, Fat-Free Framework (F3) and Spring Boot. I excel at building robust and scalable back-end solutions, 
         implementing RESTful APIs, harnessing the power of MVC and optimizing database interactions for seamless performance.
