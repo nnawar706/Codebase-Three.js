@@ -26,7 +26,11 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get In Touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
         <form ref={formRef} onSubmit={formSubmit} 
-        className="mt-12 flex flex-col gap-8"></form>
+        className="mt-12 flex flex-col gap-8">
+          <label className="flex flex-col">
+            <span className="text-white font-medium mb-4">your Name</span>
+          </label>
+        </form>
       </motion.div>
     </div>
   )
