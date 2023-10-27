@@ -39,7 +39,7 @@ const ExperienceCard = ({ experience }) => (
 const Experience = () => {
   return (
     <>
-      <motion.div variants={textVariant()} className="xl:mt-[150px]">
+      <motion.div variants={textVariant()} className="xl:mt-[150px] mt-20">
         <p className={styles.sectionSubText}>What I have done so far</p>
         <h2 className={styles.sectionHeadText}>Experience.</h2>
       </motion.div>
