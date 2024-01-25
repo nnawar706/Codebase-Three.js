@@ -31,6 +31,7 @@ import selopia from "./company/selopia.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import foodiehub from "./foodiehub.png";
 
 export {
   logo,
@@ -60,6 +61,7 @@ export {
   starbucks,
   tesla,
   selopia,
+  foodiehub,
   carrent,
   jobit,
   tripguide,

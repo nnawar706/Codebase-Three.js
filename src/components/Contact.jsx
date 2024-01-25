@@ -49,7 +49,7 @@ const Contact = () => {
   return (
     <div className="xl:mt-[150px] xl:flex-row flex-col-reverse flex gap-5 overflow-hidden">
       <motion.div variants={slideIn('left', 'tween', 0.2, 1)}
-      className="flex-[0.75] bg-black-100 p-8 rounded-2xl w=[350px]">
+      className="flex-[0.75] bg-black-100 p-8 rounded-2xl w-[350px]">
         <p className={styles.sectionSubText}>Get In Touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
         <form ref={formRef} onSubmit={formSubmit} 

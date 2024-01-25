@@ -25,6 +25,7 @@ import {
   tripguide,
   threejs,
   laravel,
+  foodiehub,
 } from "../assets";
 
 export const navLinks = [
@@ -182,9 +183,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "FoodieHub",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "As a food recipe application, FoodieHub is an ultimate culinary companion, providing a diverse collection of mouthwatering recipes, cooking tips, and culinary inspirations.",
     tags: [
       {
         name: "react",
@@ -195,12 +196,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "three.js",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: foodiehub,
+    source_code_link: "https://github.com/nnawar706/FoodieHub",
   },
   {
     name: "Trip Guide",
